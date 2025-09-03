@@ -22,7 +22,7 @@ Language: Python 3
 
 Clone the repository:
 
-git clone https://github.com/your-username/simple-chatbot.git
+git clone https://github.com/Lakshmikala43/CodeAlpha_chatbot/blob/main/chatbot.py
 cd simple-chatbot
 
 
